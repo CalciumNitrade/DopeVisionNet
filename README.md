@@ -27,6 +27,9 @@ This repository contains a training script for predicting molecule properties us
     ```bash
     pip install -r requirements.txt
     ```
+## Data
+
+You can download the data for compounds from the following link: [DopeVisionNet Data](https://tamucs-my.sharepoint.com/:f:/r/personal/hasan_kurban_tamu_edu/Documents/KIL-OneDrive/Can%20Polat/DopeVisionNet/data?csf=1&web=1&e=inGKUd)
 
 ## Train Usage
 
