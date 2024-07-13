@@ -18,8 +18,8 @@ This repository contains a training script for predicting molecule properties us
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/molecule-property-prediction.git
-    cd molecule-property-prediction
+    git clone git@github.com:CalciumNitrade/DopeVisionNet.git
+    cd DopeVisionNet
     ```
 
 2. Install the required packages:
